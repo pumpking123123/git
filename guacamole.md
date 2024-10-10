@@ -3,4 +3,5 @@
 *avocado
 *lime
 *salt
+*sugar
 ## Instructions
